@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding-top: 50px;
+}
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+/*section#welcome{
+  height: 750px;
+  width: 100%;
+  background: white;
+}*/
+.navbar-default{
+  background: black;
+}
