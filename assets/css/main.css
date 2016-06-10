@@ -1,6 +1,9 @@
+/*import Raleway font*/
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 *{
   margin: 0;
   padding: 0;
+  font-family: 'Raleway', sans-serif;
 }
 body {
   padding-top: 50px;
@@ -17,3 +20,5 @@ body {
 .navbar-default{
   background: black;
 }
+ul{
+  padding-left: 3%;
